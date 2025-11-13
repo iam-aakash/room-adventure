@@ -3,8 +3,8 @@ import java.util.Scanner;
 // Name: Aakash Baral
 
 /* My features:
-1. Drop command lets player drop items back into the room
-2. Inspect command lets examine items in your inventory for hidden info
+1. Drop command: player can drop items back into the room
+2. Inspect command lets examine items in your inventory for hidden informations
 3. USE command can make use of certain items in room
 Using the battery in the Robotics Lab powers on a robot*/
 
